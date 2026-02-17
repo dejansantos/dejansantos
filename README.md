@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou Dejan Santos
 
-<!--
-**dejansantos/dejansantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Profissional de TI desde 2005  
+🔧 Infraestrutura, Monitoramento e Hosting  
+🐧 Linux • Zabbix • Nagios • Bacula • Docker  
+🚀 Em transição para DevOps & Cloud Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Experiência
+- Datacenter (Alog)
+- Monitoramento de servidores (Zabbix/Nagios)
+- Backup corporativo (Bacula - Fiocruz)
+- Infraestrutura e suporte (BNDES)
+- Analista de Suporte e Hosting (Homehost)
+
+---
+
+## 🚀 Atualmente estudando
+- Docker em produção
+- CI/CD
+- AWS Cloud
+- Infrastructure as Code (Terraform)
+
+---
+
+## 📌 Objetivo
+Evoluir para atuação como DevOps Engineer, automatizando infraestrutura e deploys.
